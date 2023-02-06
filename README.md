@@ -1,5 +1,24 @@
-### Hi there 👋
+# Requals
 
-I use **Python** and **Javascript**.
+Most of my projects are unfinished / unoptimal.
 
-Most of my projects are unfinished.
+---
+
+### Projects
+
+| Name            | Status      |
+|-----------------|-------------|
+| Game List       | Finished    |
+| RequalsUtils    | In Progress |
+| Bookmarklets    | Postponed   |
+| Domain Coloring | Postponed   |
+| 2D COD Zombies  | Planning    |
+
+--- 
+
+### Languages
+
+In order from most experience to least experience
+
+- 🟨 Javascript
+- 🐍 Python
