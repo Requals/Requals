@@ -1,7 +1,4 @@
 ### Hi there 👋
 
 I use **Python** and **Javascript**.
-
-
-
-*I am a horrible developer*
+Most of my projects are unfinished.
