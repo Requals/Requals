@@ -8,10 +8,10 @@ Most of my projects are unfinished / unoptimal.
 
 | Name            | Status      |
 |-----------------|-------------|
-| Game List       | Finished    |
-| RequalsUtils    | In Progress |
-| Bookmarklets    | Postponed   |
-| Domain Coloring | Postponed   |
+| [Game List](https://requals.github.io/gamelist/)       | Finished    |
+| [RequalsUtils](https://requals.github.io/RequalsUtils/)    | In Progress |
+| [Bookmarklets](https://requals.github.io/Bookmarklet-Snippets/)    | Postponed   |
+| [Domain Coloring](https://requals.github.io/domaincoloring/) | Postponed   |
 | 2D COD Zombies  | Planning    |
 
 --- 
@@ -21,4 +21,6 @@ Most of my projects are unfinished / unoptimal.
 In order from most experience to least experience
 
 - 🟨 Javascript
+- 🟧 HTML
+- 🟦 CSS
 - 🐍 Python
