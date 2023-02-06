@@ -1,5 +1,3 @@
-# Requals
-
 Most of my projects are unfinished / unoptimal.
 
 ---
