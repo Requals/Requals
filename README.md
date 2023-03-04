@@ -4,13 +4,11 @@ Most of my projects are unfinished / unoptimal.
 
 ### Projects
 
+*Some projects have been removed because they no longer exist. Check the [extras](https://github.com/Requals/extras) repository.*
+
 | Name            | Status      |
 |-----------------|-------------|
-| [Game List](https://requals.github.io/gamelist/)       | Finished    |
-| [RequalsUtils](https://requals.github.io/RequalsUtils/)    | In Progress |
-| [Bookmarklets](https://requals.github.io/Bookmarklet-Snippets/)    | Postponed   |
 | [Domain Coloring](https://requals.github.io/domaincoloring/) | Postponed   |
-| [Neuralekzz](https://neuralekzz.github.io) | In Progress |
 
 --- 
 
@@ -20,7 +18,4 @@ In order from most experience to least experience
 
 - 🟨 Javascript
 - 🟦 CSS
-- 🟧 HTML
-- ⭕ JSON
 - 🐍 Python
-- 🇲 Markdown
